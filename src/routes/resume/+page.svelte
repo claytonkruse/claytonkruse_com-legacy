@@ -5,6 +5,16 @@
     </div>
 </header>
 <main id="main" class="container">
+    <nav aria-label="breadcrumb">
+        <ul>
+            <li>
+                <a href="https://linkedin.com/in/claytonckruse/">LinkedIn</a>
+            </li>
+            <li>
+                <a href="https://medium.com/@claytonkruse">Medium</a>
+            </li>
+        </ul>
+    </nav>
     <h1>Resume</h1>
     <section class="knowledgebase">
         <h2>Knowledgebase</h2>
