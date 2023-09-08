@@ -13,6 +13,9 @@
             <li>
                 <a href="https://medium.com/@claytonkruse">Medium</a>
             </li>
+            <ul>
+                <li><a href="https://github.com/claytonkruse">Github</a></li>
+            </ul>
         </ul>
     </nav>
     <h1>Resume</h1>
