@@ -136,7 +136,7 @@
     >
 </footer>
 
-<style lang="scss">
+<style lang="postcss">
     .hero {
         position: relative;
         height: 10rem;
