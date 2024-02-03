@@ -1,3 +1,7 @@
+<script lang="ts">
+    import '@picocss/pico';
+</script>
+
 <header class="container hero" title="Background by John Towner">
     <div class="profile-image" />
     <div class="name-line">
